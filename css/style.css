@@ -1,3 +1,26 @@
+body {
+  font: 20px Arial, sans-serif;
+}
+
 .navbar {
-  background-color: gray;
+  background-color: #90ee90;
+}
+
+.historia {
+  background-color: #add8e6;
+  color: white;
+}
+
+.margin {
+  padding-bottom: 50px;
+  padding-top: 10px;
+}
+
+.lutadores {
+  background-color: #3fbf54;
+}
+
+.bg-footer {
+  background-color: #90ee90;
+  color: gray;
 }
